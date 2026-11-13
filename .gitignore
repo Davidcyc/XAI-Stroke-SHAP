@@ -1,0 +1,21 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Large data files
+xai-series-master/xai-series-master/data/brain_mri/
+*.csv
+!xai-series-master/xai-series-master/data/healthcare-dataset-stroke-data.csv
+
+# Temporary office lock files
+~$*
+.~*
+
+# Local OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

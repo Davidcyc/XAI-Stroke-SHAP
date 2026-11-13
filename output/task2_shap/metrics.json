@@ -1,0 +1,14 @@
+{
+    "Accuracy": 0.8875,
+    "Balanced_Accuracy": 0.6468,
+    "Precision_Class1": 0.1845,
+    "Recall_Class1": 0.38,
+    "F1_Class1": 0.2484,
+    "ROC_AUC": 0.7915,
+    "Average_Precision": 0.1694,
+    "TN": 888,
+    "FP": 84,
+    "FN": 31,
+    "TP": 19,
+    "Test_Positive_Support": 50
+}

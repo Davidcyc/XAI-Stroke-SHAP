@@ -1,0 +1,15 @@
+{
+    "case_id": 159,
+    "case_actual": 1,
+    "rf_prob": 0.7165,
+    "svm_prob": 0.8459,
+    "base_value": 0.3025,
+    "reconstruction_residual": 0.0,
+    "local_runtime_sec": 4.33,
+    "global_runtime_sec": 451.51,
+    "top3_svm_features": [
+        "age",
+        "bmi",
+        "avg_glucose_level"
+    ]
+}

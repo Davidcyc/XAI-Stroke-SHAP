@@ -1,0 +1,15 @@
+{
+    "Model": "RBF Support Vector Machine (Kernel SHAP)",
+    "Accuracy": 0.775,
+    "Balanced_Accuracy": 0.6825,
+    "Precision_Class1": 0.1218,
+    "Recall_Class1": 0.58,
+    "F1_Class1": 0.2014,
+    "ROC_AUC": 0.7758,
+    "Average_Precision": 0.1723,
+    "TN": 763,
+    "FP": 209,
+    "FN": 21,
+    "TP": 29,
+    "Test_Positive_Support": 50
+}

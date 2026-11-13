@@ -1,0 +1,32 @@
+{
+    "case_id": 159,
+    "test_index": 61,
+    "actual_class": 1,
+    "predicted_class": 1,
+    "predicted_prob": 0.7165,
+    "base_value": 0.2272,
+    "top_features": [
+        {
+            "Feature": "age",
+            "Patient_Value": 81.0,
+            "SHAP_Value": 0.2872300630315431,
+            "Abs_SHAP": 0.2872300630315431,
+            "Direction": "Increases stroke prob (+)"
+        },
+        {
+            "Feature": "hypertension",
+            "Patient_Value": 1.0,
+            "SHAP_Value": 0.03449899056780623,
+            "Abs_SHAP": 0.03449899056780623,
+            "Direction": "Increases stroke prob (+)"
+        },
+        {
+            "Feature": "avg_glucose_level",
+            "Patient_Value": 74.02,
+            "SHAP_Value": 0.027270294435356845,
+            "Abs_SHAP": 0.027270294435356845,
+            "Direction": "Increases stroke prob (+)"
+        }
+    ],
+    "remaining_sum": 0.1402
+}
